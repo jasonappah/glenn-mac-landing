@@ -10,7 +10,7 @@ export default function Grizzly(props) {
     visible: {
       pathLength: 1,
       fill: "rgba(0, 0, 0, 0.2)",
-      strokeWidth: "0px",
+      strokeWidth: "0.01px",
     },
   };
 
